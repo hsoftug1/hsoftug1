@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Lutayisire Alex.
 
-### 🛡️ Defensive AI & SecOps Automation | Software Engineer | AI/ML
+### 🛡️ Defensive AI & SecOps Automation | Software Engineer | AI/ML | CYBER SECURITY 
 
 > **Engineering intelligence. Automating defense. Securing what matters.**
 
